@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+f2144e46f8949b8246e0745d14f6305b1b432b79 refs/heads/add-contracts-prototype
+ab681844da2308919e95869b19c63cf15b6ef36f refs/heads/add-demodata
+a7c6f5c96a0ea72c93bbfc21b7163e79989c39c2 refs/heads/front
+622903d4d5a61793c005fa3c527d099be8730461 refs/heads/hack2
+e8af2bd4bebb00ac5764dfeae6870d43fb64811c refs/heads/master
+f2144e46f8949b8246e0745d14f6305b1b432b79 refs/pull/1/head
+ab681844da2308919e95869b19c63cf15b6ef36f refs/pull/2/head
+7ab17bdbe66d82467ada0e4e50881298b35b2bb0 refs/pull/2/merge

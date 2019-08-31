@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+557c6c61a2b146285b01d4df2baa18764302daa3 refs/heads/feature/add-docker
+83852b7c974535422dab13df5b1137fe3f1bbc43 refs/heads/feature/add-test
+88e4bed6f4c63f27a65c504f74e61dca1a3af537 refs/heads/feature/secure
+91142477d3db6139760b58d04dae5897e78190b1 refs/heads/fix/map
+112544b03ae96958b92c523f458a8c15a7b4aa55 refs/heads/master
+91142477d3db6139760b58d04dae5897e78190b1 refs/pull/11/head
+3336565a02e81a7da69bf8562bad5b806ce27ea9 refs/pull/4/head
+83852b7c974535422dab13df5b1137fe3f1bbc43 refs/pull/6/head
+e781d35d4ab4fe0cd4d39639c8e24fdbd4337763 refs/pull/8/head
+557c6c61a2b146285b01d4df2baa18764302daa3 refs/pull/9/head

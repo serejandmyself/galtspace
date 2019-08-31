@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+33afd8bad37ce263a8e881c7a0b506ac1cff96f9 refs/heads/master
+ce1a3065aee2d9c8c6d4f8ff1918ba28cc5c518f refs/heads/temp-for-deploy
+f4eccf89474460e68dbc669f8bfe0f0849b15d2e refs/pull/10/head
+1b2e5ae3c180d9d6f30901e75abde016e0c87705 refs/pull/11/head
+e46c65f33ff4c0135444ce2858e3fc509f369567 refs/pull/12/head
+ce1a3065aee2d9c8c6d4f8ff1918ba28cc5c518f refs/pull/13/head
+f97d3cf9a2b045fcfbdbb6d6a4d02af8185a9a97 refs/pull/14/head
+8967dd637c5211e72af17558fb9f106a517d4cf1 refs/pull/15/head
+44527036c895c64a8136782a22f19b3d1bf3cd95 refs/pull/3/head
+9e1fe184b5ee6f9bde80a712640a9b9f97ab2cb5 refs/pull/4/head
+0f1d6a94c2183dd4f9bfe8efe81eba17a30ca67a refs/pull/5/head
+dcff29b650fb9b8561b27345c1eb500e2598dcfa refs/pull/6/head
+dcff29b650fb9b8561b27345c1eb500e2598dcfa refs/pull/7/head
+ae4d5e996c51c8d4d6dba5207f2f19de9b44cb8a refs/pull/9/head

@@ -1,0 +1,36 @@
+# pack-refs with: peeled fully-peeled sorted 
+d2290a341334d232b432d7e7b3bf7e0b362cf731 refs/heads/deploy-catalog-orders
+db5d21270de1e482af7f46ebfe76c785f223ca94 refs/heads/improve-deploy-for-frontend
+c3339d345eea34b7db0f8909e5a0626c483956c5 refs/heads/master
+019727a94f8be2c98cd437efbdb41bff9cfee18c refs/pull/16/head
+ed61d8e49c7e531d46b75837f060a265c947f66a refs/pull/17/head
+29a06c4f147b2e8d34a326a4f366618bfbc2997e refs/pull/23/head
+000b0323f4c8c1d869fd86a03fe17c7a09923e28 refs/pull/26/head
+bd3311737b96eaeb13a02a9651eeba50963544f1 refs/pull/28/head
+99c5ef88b1796706d709246ec018d156187cad53 refs/pull/29/head
+9c490999931940f9de1b6fa6bf562bf0d875bc3c refs/pull/30/head
+9369ecfcc5c0dfde37616c568132582b4822e2aa refs/pull/31/head
+5a8798881998b17369d848d552e8fedfe047af4c refs/pull/40/head
+57d718058d15e5772ab348a4937c27e0dc63e948 refs/pull/41/head
+99536b06f1d39240e21935e70dfaebf0fcec0f1a refs/pull/43/head
+2f0ce78725fd62e0d1371fc09c33d3314e7b3996 refs/pull/46/head
+a93763aa29acb91acf6cde9a72b8147d0060fc4c refs/pull/56/head
+2bcb06a285274b6ad1e32305ee1875dcb58c1f4c refs/pull/59/head
+059c87d18a43ac1a74a87b5a2f6908196ad0f907 refs/pull/61/head
+3687ab41fa2495c70d05e7bef2d8b203c184f60b refs/pull/62/head
+d4c1c4f9c746bbd22669f70e02989878af76ea85 refs/pull/63/head
+0206c359d76a010f12ec7ffff5db0b152440743a refs/pull/64/head
+1e9a5ec1a31433a42c9ca240b930ec2c0ee2bd3f refs/pull/67/head
+5cdad7c12d047ef8d0bef3b42677e8fcb3883ace refs/pull/68/head
+35ca278c1eb176fe84d75e274f3e8f92d67652a3 refs/pull/7/head
+a30168e21ba614e2ec700cd1b76e6d9895158805 refs/pull/71/head
+b170e27055b3413555493513f5cd273b21214236 refs/pull/73/head
+ff9ed70a035831c60cfe6eda1a4462b983eb716e refs/pull/75/head
+db5d21270de1e482af7f46ebfe76c785f223ca94 refs/pull/79/head
+d6117d3f94ec99ddb41904807fe61e727fd233fd refs/pull/82/head
+b3905a97f4a6c846850a3259e3e866552e7671e8 refs/pull/84/head
+a193e91e6a2f7ded6e9c4b0d61951a856fcf5525 refs/pull/86/head
+ad15eaabcf46c727bfdb2113baaf5e213114f9c6 refs/pull/87/head
+14781a1fd27c38383244806a30b07f335e9daff2 refs/pull/9/head
+dfeb642d3856794ceb126165bee816af61bc0a75 refs/tags/v0.10.0
+^7ceb2b7cd5a156d2b322b73276c266d030e0a575

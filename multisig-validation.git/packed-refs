@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+72776c80adb11047cc2e416d26d3c21ffefee578 refs/heads/develop
+3dd60d83ab6669ebdc0d6ab131ec08401c2268ee refs/heads/feature/setup-travis
+14acc5af630ab46a45770bd62ffa87d66c94aa9c refs/heads/gh-pages
+f20daf9fecf9a8acec2d47cac5d0d86ffa664c62 refs/heads/master
+5caea546a6ed636f1346d9f4c67e87a6cdecd55d refs/heads/reconfigure-webpack
+84ec4d2fc2433627e2a30c42c2dc2b9bde375897 refs/pull/1/head
+1032489ba2f74c3ffeb8ed238704864314cd69a6 refs/pull/9/head

@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+c5ec5e8ecd4851a72b03917db72d1712b0bc1727 refs/heads/IgorFrolov-add-okt-2018
+c65ce44b58d95516d370cbfa365630707a20ca95 refs/heads/IgorFrolov-communications
+ae872ed55d99d6a03af0e92e2e021081fa5b5191 refs/heads/IgorFrolov-new-age
+90052e887e79f83932695bac69329c16bdd9245b refs/heads/master
+c65ce44b58d95516d370cbfa365630707a20ca95 refs/pull/2/head
+ae872ed55d99d6a03af0e92e2e021081fa5b5191 refs/pull/3/head
+c5ec5e8ecd4851a72b03917db72d1712b0bc1727 refs/pull/4/head
+b7c6d3238fc3d9065057595a0d80dbf8c0149340 refs/pull/4/merge

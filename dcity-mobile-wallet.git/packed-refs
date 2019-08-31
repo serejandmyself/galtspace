@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+a0d90d1eaabb1baa22b7b4a12da0b970b7d4e50f refs/heads/add-custom-dapplist
+a1941b5f188f19c26607f5c9b35bb27682b27847 refs/heads/fix-fabric-android
+c2b7af2609df10c124b71ac81cfacba30a845428 refs/heads/fix-global-build-rework
+c5330006499b293830a1f059b7f1ec5b32a97003 refs/heads/fix-ios-build-01
+f5fa2debec24858b548d4d634a216986e349e516 refs/heads/fix-networks-01
+ed8594d8abae7d0f31c1749b0f8c2597f9c80add refs/heads/fix-style-01
+1334da01acc693c5bbcf5a4e82ab709946ea7be5 refs/heads/master
+a1941b5f188f19c26607f5c9b35bb27682b27847 refs/pull/16/head
+c5330006499b293830a1f059b7f1ec5b32a97003 refs/pull/17/head
+ed8594d8abae7d0f31c1749b0f8c2597f9c80add refs/pull/18/head
+f5fa2debec24858b548d4d634a216986e349e516 refs/pull/24/head

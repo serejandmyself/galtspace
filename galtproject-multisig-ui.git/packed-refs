@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+f3d1629c3583c80fb4813c5685f9e3b2e61a5f19 refs/heads/global-address-book
+829fb95371937f9a3911b4cddadce594ef0d168c refs/heads/master
+c88a33a684e124f8ec429450f9714ede45717ef2 refs/pull/1/head
+204c21db0405b6906dd411a8c6602736fef4461e refs/pull/8/head

@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+7ea75957ce3b6e75f28e6a9fb7ef67d30ed66acf refs/heads/feature/add-mac-support
+a78a43f3f23bcae758f26d27b0002f3a03eac4b6 refs/heads/master
+86e680799b7a4ae5990c093d0dec983f9da5c8b7 refs/pull/6/head
+7ea75957ce3b6e75f28e6a9fb7ef67d30ed66acf refs/pull/8/head
+5f8f6ce1556d64c207912b5deb5cbef80429b238 refs/tags/0.1.0
+d25c908df0c06ffdb65ca24cd4a156a94825a4c3 refs/tags/0.1.1
+34ec9ba5d15756503266386c9912436b3384a366 refs/tags/0.1.2

@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+305896d726e306f8e24c08770027f1df56a97e9f refs/heads/chebykin-patch-1
+c780ea764e8d3e6e2b8ec4745a42c09caa877282 refs/heads/master
+305896d726e306f8e24c08770027f1df56a97e9f refs/pull/1/head
+77bb9a4892e17e16de6acc108015dd39d9cc5ba5 refs/pull/1/merge

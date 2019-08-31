@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+1b2542158347eaaa5f38e8361978a22ec15c7011 refs/heads/IgorFrolov-add-docs
+31f78234023488b60144d2eaceffd903450dc175 refs/heads/master
+1b2542158347eaaa5f38e8361978a22ec15c7011 refs/pull/5/head
+02593ede3f5e5903d2a3a3354f144fa48f401f40 refs/pull/5/merge

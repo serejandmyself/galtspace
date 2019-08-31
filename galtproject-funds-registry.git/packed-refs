@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+49270f70148e5e09deb15bd5217489b871aed559 refs/heads/bump-solc-version
+cb0170a2b5dcd622abe9d774164f2c5369553b95 refs/heads/master
+49270f70148e5e09deb15bd5217489b871aed559 refs/pull/1/head
+45b4fe3e4bd00489c346fd217795592a6090e89e refs/pull/1/merge

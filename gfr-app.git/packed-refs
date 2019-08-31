@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+821bb676f1c31fc6f789d3ea199e4fde4bc8381e refs/heads/chebykin-patch-1
+b044ad2e52876504d9b911710eb3d4b209338b43 refs/heads/mainnet
+e8d1138d6bcd953f9ba80f7c2cbee28ff8c653fd refs/heads/master
+8799dce858574ef2e22f8ed571e4822c2af25abc refs/heads/yal-lottery
+821bb676f1c31fc6f789d3ea199e4fde4bc8381e refs/pull/4/head
